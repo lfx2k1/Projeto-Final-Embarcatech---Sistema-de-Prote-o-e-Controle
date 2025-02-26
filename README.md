@@ -17,6 +17,7 @@ Link de acesso para o vídeo com a explicaçao do código e testes na placa BitD
 - **BitDogLab**
 - **Joystick (Sensor de Corrente)**
 - **LEDs RGB**
+- **Matriz de LEDs**
 - **Display OLED**
 - **Buzzer**
 - **Botões A e B**
