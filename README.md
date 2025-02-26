@@ -2,7 +2,7 @@
 ## Descrição do Projeto
 Este projeto visa desenvolver um sistema de proteção e controle para subestações elétricas utilizando a placa BitDogLab. O sistema monitora a corrente elétrica, identificando zonas de operação segura, alerta e crítica, e fornece feedback visual e sonoro em tempo real.
 
-##Link de acesso ao vídeo
+## Link de acesso ao vídeo
 
 Link de acesso para o vídeo com a explicaçao do código e testes na placa BitDogLab: https://youtu.be/wHbHefFF9DQ.
 
