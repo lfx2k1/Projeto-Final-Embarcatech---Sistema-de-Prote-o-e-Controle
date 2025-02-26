@@ -1,2 +1,2 @@
-# Projeto-Final-Embarcatech---Sistema-de-Prote-o-e-Controle
+# Projeto-Final-Embarcatech-Sistema-de-Protecao-e-Controle
 Atividade para a capacitação de Sistemas Embarcados, Embarcatech.
